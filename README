@@ -1,0 +1,3 @@
+Retrieves all the unique http links in the last 100 most recent tweets
+usage: java -jar jtweet.jar <hashcode>
+NOTE(S): automatically expands tiny-urls
